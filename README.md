@@ -14,7 +14,7 @@
 - Composer >= 1.10.13
 
 #### Passos para executar o projeto
-- Após baixar o projeto, entrar na raiz do projeto e executar os seguintes comandos:
+- Após baixar o projeto e já com o ambiente configurado, entrar na raiz do projeto e executar os seguintes comandos:
     
     $ componser install
     
