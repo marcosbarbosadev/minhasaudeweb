@@ -14,11 +14,10 @@
 - Composer >= 1.10.13
 
 #### Passos para executar o projeto
-- Após baixar o projeto e já com o ambiente configurado, entrar na raiz do projeto e executar os seguintes comandos:
-    
-    $ composer install
-    
-    $ php artisan migrante --seed
-    
-    $ php artisan serve
-    
+- Após baixar o projeto e já com o ambiente configurado, entrar na raiz do projeto
+- Executar composer install
+- Fazer uma cópia de .env.example, salvar como .env e alterar nesse arquivo as informações do banco conforme seu ambiente (DB_DATABASE, DB_USERNAME, DB_PASSWORD)
+- Executar php artisan key:generate
+- Executar php artisan migrate --seed
+- Executar php artisan serve
+- Acesse o endereço http://localhost:8000   
