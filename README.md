@@ -21,3 +21,4 @@
     $ php artisan migrante --seed
     
     $ php artisan serve
+    
