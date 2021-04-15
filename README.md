@@ -16,7 +16,7 @@
 #### Passos para executar o projeto
 - Após baixar o projeto e já com o ambiente configurado, entrar na raiz do projeto e executar os seguintes comandos:
     
-    $ componser install
+    $ composer install
     
     $ php artisan migrante --seed
     
