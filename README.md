@@ -17,5 +17,7 @@
 - Após baixar o projeto, entrar na raiz do projeto e executar os seguintes comandos:
     
     $ componser install
+    
     $ php artisan migrante --seed
+    
     $ php artisan serve
