@@ -1,0 +1,29 @@
+.titulo-pagina {
+    color: #63a854;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #63a854;
+    border-color: #63a854;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #539445;
+    border-color: #539445;
+}
+
+.margin-top-50 {
+    margin-top: 50px;
+}
+
+#itemTitleModal {
+    font-weight: bold;
+}
+.border-row-no-results {
+    border-bottom: 1px solid #dee2e6;
+}
+
+
